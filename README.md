@@ -1,0 +1,2 @@
+# Finding-R
+One button, easy to learn and hard to master, a super intense game where you can use only one button to play a game of stealth, strategy, and endless challenge. The story of the game is the player one day finds his girlfriend "R" is missing and he goes in a venture to find his girlfriend. In the way, he crosses hurdles. Till date, I was able to build the basic mechanics of game and story is slowly developing. Use "SPACE" to JUMP, DOUBLE JUMP, and WALL JUMP to play a game of stealth, strategy, and endless challenge. 
